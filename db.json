@@ -1,0 +1,14 @@
+{
+	"posts": [
+		{
+			"_id": "1",
+			"name": "hugo",
+			"beschreibung": "sdfgsfdg",
+			"address": "fdsgsdfg",
+			"phone": "+49 123 456 789"
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
+}
